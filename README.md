@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![Beige Simple banner Business Strategy Linkedin Banners (2)](https://user-images.githubusercontent.com/64751892/161404248-a591e04b-dfc6-4078-ad3a-13a6d1833ff9.gif)
-
+![Beige Simple banner Business Strategy Linkedin Banners (3)](https://user-images.githubusercontent.com/64751892/161404379-d746daa1-ebc2-429b-95c1-86522d83843a.gif)
 
 
 - 👯 I’m looking to collaborate on a team project...
