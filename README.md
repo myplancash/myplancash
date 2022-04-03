@@ -10,6 +10,5 @@
 <br>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-📫 <a href="mailto: sergio.smiling@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/dotty/40/000000/email.png" alt="sergio email" />
-</a>
+<a href="mailto: sergio.smiling@gmail.com" target="blank">📫</a>
 📞 How to reach me: +573195205204
