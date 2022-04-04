@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Beige Simple banner Business Strategy Linkedin Banners (5)](https://user-images.githubusercontent.com/64751892/161557179-59077255-6cf0-48a9-9abd-3b23ae3c6797.gif)
+![Beige Simple banner Business Strategy Linkedin Banners (6)](https://user-images.githubusercontent.com/64751892/161557510-823b7403-dc0f-42a2-a62e-de40100aae59.gif)
+
 
 <h2 align=center>Hi! I'm Sergio Esteban Torres.</h2>
 <h3 align=center>Former Business Administrator and now Lifelong learner Full-Stack developer.</h3>
