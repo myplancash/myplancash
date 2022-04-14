@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![react-web-developer (LinkedIn Banner)](https://user-images.githubusercontent.com/64751892/163404303-678f3551-dc6d-499a-9c2e-cf0ba42e2b4f.gif)
-
+![react-web-developer (LinkedIn Banner) (1)](https://user-images.githubusercontent.com/64751892/163404760-81d74904-52e7-4e76-bc08-69fb339ea530.gif)
 
 
 <h2 align=center>Hi! I'm Sergio Esteban Torres.</h2>
