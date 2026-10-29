@@ -8,10 +8,3 @@
 <br>
 <p align="center">👯 I’m looking to collaborate on a team project.:smile:</p><br /> 
 </p>
-<br>
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<br>
-<a href="mailto:sergio.smiling@gmail.com" target="blank"> 📫 sergio.smiling@gmail.com </a>
-<br>
-<a href="https://api.whatsapp.com/send?phone=+573195205204"> 📲 Send Me a Message +573195205204</a>
